@@ -1,0 +1,16 @@
+# Chargement des données et graphiques
+numpy
+pandas
+matplotlib
+
+# Préparation, évaluation, entraînement et export TensorFlow Lite
+scikit-learn
+tensorflow
+torch
+
+# Exécution du notebook
+jupyterlab
+ipykernel
+
+# Communication série avec l'ESP32
+pyserial

@@ -1,0 +1,33 @@
+{
+  "methode": "min-max par colonne sur tous les CSV du dossier source",
+  "formule": "(valeur - minimum) / (maximum - minimum)",
+  "colonne_constante": "remplacée par 0",
+  "source": "/home/thomas/Bureau/IOT et IA/IOT_IA/dataset_thomas",
+  "nombre_fichiers": 800,
+  "colonnes": {
+    "X": {
+      "minimum": -2.0,
+      "maximum": 1.99994
+    },
+    "Y": {
+      "minimum": -2.0,
+      "maximum": 1.99994
+    },
+    "Z": {
+      "minimum": -2.0,
+      "maximum": 1.99994
+    },
+    "GX": {
+      "minimum": -250.13741,
+      "maximum": 250.12978
+    },
+    "GY": {
+      "minimum": -250.13741,
+      "maximum": 250.12978
+    },
+    "GZ": {
+      "minimum": -250.13741,
+      "maximum": 250.12978
+    }
+  }
+}
